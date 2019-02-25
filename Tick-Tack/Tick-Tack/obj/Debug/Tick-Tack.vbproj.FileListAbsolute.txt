@@ -1,0 +1,11 @@
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\bin\Debug\Tick-Tack.exe.config
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\bin\Debug\Tick-Tack.exe
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\bin\Debug\Tick-Tack.pdb
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\bin\Debug\Tick-Tack.xml
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.vbprojAssemblyReference.cache
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\obj\Debug\Tick_Tack.Resources.resources
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.vbproj.GenerateResource.cache
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.vbproj.CoreCompileInputs.cache
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.exe
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.xml
+C:\Users\Nayyar\source\repos\Tick-Tack\Tick-Tack\obj\Debug\Tick-Tack.pdb
