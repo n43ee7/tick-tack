@@ -1,2 +1,15 @@
-# tick-tack
-VB.net based Tick-Tack-Toe game that you could use for your personal use (An edited version of my previous game 'Konect' modified to be a Tick-Tack-Toe game Which I was gonna use for my Wolfram Summer Camp Problem Sets)
+#                               
+#                  ▄▄▄█████▓ ██▓ ▄████▄   ██ ▄█▀      ▄▄▄█████▓ ▄▄▄       ▄████▄   ██ ▄█▀
+#                  ▓  ██▒ ▓▒▓██▒▒██▀ ▀█   ██▄█▒       ▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█   ██▄█▒ 
+#                  ▒ ▓██░ ▒░▒██▒▒▓█    ▄ ▓███▄░       ▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▓███▄░ 
+#                  ░ ▓██▓ ░ ░██░▒▓▓▄ ▄██▒▓██ █▄       ░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▓██ █▄ 
+#                    ▒██▒ ░ ░██░▒ ▓███▀ ░▒██▒ █▄        ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░▒██▒ █▄
+#                    ▒ ░░   ░▓  ░ ░▒ ▒  ░▒ ▒▒ ▓▒        ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░▒ ▒▒ ▓▒
+#                      ░     ▒ ░  ░  ▒   ░ ░▒ ▒░          ░      ▒   ▒▒ ░  ░  ▒   ░ ░▒ ▒░
+#                    ░       ▒ ░░        ░ ░░ ░         ░        ░   ▒   ░        ░ ░░ ░ 
+#                            ░  ░ ░      ░  ░                        ░  ░░ ░      ░  ░   
+#                               ░                                        ░               
+# Parent Repo: https://github.com/n43ee7/konect
+
+Simple VB.net based Console Tick-Tac-Toe game that you can use for your literlly anything.
+Uploaded for my Computer Assignment again but same old rules 
